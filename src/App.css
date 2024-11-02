@@ -1,0 +1,13 @@
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height of the viewport */
+    position: fixed; /* Fix position */
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(255, 255, 255, 0.8); /* Optional: slightly transparent background */
+    z-index: 1000; /* Ensure it appears above all other content */
+  }
+  
